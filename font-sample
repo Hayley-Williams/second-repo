@@ -2,7 +2,7 @@
 <html>
   <head>
     <title>Font Sample</title>
-    <link href="<link href="https://fonts.googleapis.com/css2?family=Arvo&family=Lato:wght@300;400&display=swap" rel="stylesheet">" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Arvo&family=Lato:wght@300;400&display=swap" rel="stylesheet">"
     <style>
     .fontone {
       font-family: Arvo, serif;
